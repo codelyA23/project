@@ -1,0 +1,185 @@
+Request Headers: Array
+(
+    [Host] => localhost
+    [Connection] => keep-alive
+    [Content-Length] => 2
+    [sec-ch-ua-platform] => "Windows"
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
+    [sec-ch-ua] => "Microsoft Edge";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+    [Content-Type] => application/json
+    [sec-ch-ua-mobile] => ?0
+    [Accept] => */*
+    [Origin] => http://localhost
+    [Sec-Fetch-Site] => same-origin
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Dest] => empty
+    [Referer] => http://localhost/project/index.html
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+)
+
+Raw Input: {}
+Raw Input: {}
+JSON Decode Error: No error
+JSON Decode Error: No error
+Request Headers: Array
+(
+    [Host] => localhost
+    [Connection] => keep-alive
+    [Content-Length] => 71
+    [sec-ch-ua-platform] => "Windows"
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
+    [sec-ch-ua] => "Microsoft Edge";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+    [Content-Type] => application/json
+    [sec-ch-ua-mobile] => ?0
+    [Accept] => */*
+    [Origin] => http://localhost
+    [Sec-Fetch-Site] => same-origin
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Dest] => empty
+    [Referer] => http://localhost/project/index.html
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+)
+
+Raw Input: {"doc_ic":"on","doc_photo":"on","doc_academic":"on","doc_english":"on"}
+Request Headers: Array
+(
+    [Host] => localhost
+    [Connection] => keep-alive
+    [Content-Length] => 71
+    [sec-ch-ua-platform] => "Windows"
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
+    [sec-ch-ua] => "Microsoft Edge";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+    [Content-Type] => application/json
+    [sec-ch-ua-mobile] => ?0
+    [Accept] => */*
+    [Origin] => http://localhost
+    [Sec-Fetch-Site] => same-origin
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Dest] => empty
+    [Referer] => http://localhost/project/index.html
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+)
+
+Raw Input: {"doc_ic":"on","doc_photo":"on","doc_academic":"on","doc_english":"on"}
+Request Headers: Array
+(
+    [Host] => localhost
+    [Connection] => keep-alive
+    [Content-Length] => 71
+    [User-Agent] => Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320 Edg/131.0.0.0
+    [Content-Type] => application/json
+    [Accept] => */*
+    [Origin] => http://localhost
+    [Sec-Fetch-Site] => same-origin
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Dest] => empty
+    [Referer] => http://localhost/project/index.html
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+)
+
+Raw Input: {"doc_ic":"on","doc_photo":"on","doc_academic":"on","doc_english":"on"}
+Request Headers: Array
+(
+    [Host] => localhost
+    [Connection] => keep-alive
+    [Content-Length] => 71
+    [User-Agent] => Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320 Edg/131.0.0.0
+    [Content-Type] => application/json
+    [Accept] => */*
+    [Origin] => http://localhost
+    [Sec-Fetch-Site] => same-origin
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Dest] => empty
+    [Referer] => http://localhost/project/index.html
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+)
+
+Raw Input: {"doc_ic":"on","doc_photo":"on","doc_academic":"on","doc_english":"on"}
+Request Headers: Array
+(
+    [Host] => localhost
+    [Connection] => keep-alive
+    [Content-Length] => 71
+    [User-Agent] => Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320 Edg/131.0.0.0
+    [Content-Type] => application/json
+    [Accept] => */*
+    [Origin] => http://localhost
+    [Sec-Fetch-Site] => same-origin
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Dest] => empty
+    [Referer] => http://localhost/project/index.html
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+)
+
+Raw Input: {"doc_ic":"on","doc_photo":"on","doc_academic":"on","doc_english":"on"}
+Request Headers: Array
+(
+    [Host] => localhost
+    [Connection] => keep-alive
+    [Content-Length] => 71
+    [User-Agent] => Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320 Edg/131.0.0.0
+    [Content-Type] => application/json
+    [Accept] => */*
+    [Origin] => http://localhost
+    [Sec-Fetch-Site] => same-origin
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Dest] => empty
+    [Referer] => http://localhost/project/index.html
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+)
+
+Raw Input: {"doc_ic":"on","doc_photo":"on","doc_academic":"on","doc_english":"on"}
+[2024-11-21 05:31:35] Attempting database connection
+[2024-11-21 05:31:35] Database connection successful
+[2024-11-21 05:31:35] Attempting database connection
+[2024-11-21 05:31:35] Database connection successful
+Request Headers: Array
+(
+    [Host] => localhost
+    [Connection] => keep-alive
+    [Content-Length] => 2
+    [sec-ch-ua-platform] => "Windows"
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
+    [Accept] => application/json
+    [sec-ch-ua] => "Microsoft Edge";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+    [Content-Type] => application/json
+    [sec-ch-ua-mobile] => ?0
+    [Origin] => http://localhost
+    [Sec-Fetch-Site] => same-origin
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Dest] => empty
+    [Referer] => http://localhost/project/index.html
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+)
+
+Raw Input: {}
+Raw Input: {}
+JSON Decode Error: No error
+JSON Decode Error: No error
+Request Headers: Array
+(
+    [Host] => localhost
+    [Connection] => keep-alive
+    [sec-ch-ua] => "Microsoft Edge";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+    [sec-ch-ua-mobile] => ?0
+    [sec-ch-ua-platform] => "Windows"
+    [Upgrade-Insecure-Requests] => 1
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
+    [Accept] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [Sec-Fetch-Site] => none
+    [Sec-Fetch-Mode] => navigate
+    [Sec-Fetch-User] => ?1
+    [Sec-Fetch-Dest] => document
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => en-US,en;q=0.9
+)
+
+Invalid Content-Type: not set

@@ -1,0 +1,10 @@
+[2024-11-21 05:27:16] Database Error: Table 'studentregistration.students' doesn't exist
+[2024-11-21 05:27:16] Database Error: Table 'studentregistration.students' doesn't exist
+[2024-11-21 05:28:22] Database Error: Table 'studentregistration.students' doesn't exist
+[2024-11-21 05:28:22] Database Error: Table 'studentregistration.students' doesn't exist
+[2024-11-21 05:31:35] Database Error: Table 'studentregistration.students' doesn't exist
+Trace: #0 C:\xampp\htdocs\project\submit_form.php(75): mysqli->prepare('INSERT INTO stu...')
+#1 {main}
+[2024-11-21 05:31:35] Database Error: Table 'studentregistration.students' doesn't exist
+Trace: #0 C:\xampp\htdocs\project\submit_form.php(75): mysqli->prepare('INSERT INTO stu...')
+#1 {main}
